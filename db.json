@@ -1,0 +1,49 @@
+{
+    "flower":[
+        {
+            "id": 1,
+            "key": "1",
+            "name": "roses",
+            "price": 3000,
+            "count": 5
+        },
+        {
+            "id": 2,
+            "key": "2",
+            "name": "peonies",
+            "price": 20000,
+            "count": 11
+        },
+        {
+            "id": 3,
+            "key": "3",
+            "name": "lilies",
+            "price": 900,
+            "count": 3
+        }
+    ],
+    
+    "sweets":[
+        {
+            "id": 1,
+            "key": "1",
+            "name": "strawberries",
+            "price": 900,
+            "count": 3
+        },
+        {
+            "id": 2,
+            "key": "2",
+            "name": "mango",
+            "price": 2000,
+            "count": 2
+        },
+        {
+            "id": 3,
+            "key": "3",
+            "name": "blackberry",
+            "price": 1000,
+            "count": 3
+        }
+    ]
+}
